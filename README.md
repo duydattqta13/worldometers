@@ -1,2 +1,0 @@
-# Worldometer_Data
-crawl_data_with_Scrapy
